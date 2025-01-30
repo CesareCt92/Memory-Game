@@ -29,7 +29,7 @@ A fun and interactive memory card game built with JavaScript, HTML, and Bootstra
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/memory-game.git
+   git clone https://github.com/CesareCt92/spaceInvader.git
    ```
 2. Open `index.html` in a web browser.
 3. Enjoy the game!
